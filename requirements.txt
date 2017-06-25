@@ -1,0 +1,9 @@
+# presentation software
+ipython[all]
+RISE
+matplotlib
+
+# 3rd party libs used in presentation
+goodtables==1.0.0a16
+rows==0.3.1
+tablib==0.11.5
